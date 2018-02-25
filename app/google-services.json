@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "102550079335",
+    "firebase_url": "https://chatapp-7ca28.firebaseio.com",
+    "project_id": "chatapp-7ca28",
+    "storage_bucket": "chatapp-7ca28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102550079335:android:a5c3d47bf031eef9",
+        "android_client_info": {
+          "package_name": "com.example.heydrich.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102550079335-sv76jhfuv41nl9dbt7rba1eeja6aq87b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heydrich.chatapp",
+            "certificate_hash": "fb71e8d02dd430634ba675c5060e530423e86124"
+          }
+        },
+        {
+          "client_id": "102550079335-6fgr6ltee4ot4ll9rhcgqcsrv4cunndk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjn3sH58V2ZM8MeW3sUPdCcdHjrYriFZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102550079335-6fgr6ltee4ot4ll9rhcgqcsrv4cunndk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
